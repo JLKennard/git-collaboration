@@ -5,3 +5,4 @@ Fuji
 Gala
 Golden Delicious
 Red Delicious
+Yellow Newton
